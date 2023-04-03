@@ -1,0 +1,767 @@
+{ "piatti":[
+  {
+    "nome": "Spaghetti al pomodoro",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+      "spaghetti": "80g",
+      "pomodori pelati": "100g",
+      "aglio": "1 spicchio",
+      "olio d'oliva": "1 cucchiaio",
+      "basilico": "5 foglie",
+      "sale": "qb"
+    },
+    "nutrizione": {
+      "calorie": 356,
+      "proteine": 10,
+      "grassi": 7,
+      "carboidrati": 63,
+      "fibra": 4
+    }
+  },
+  {
+    "nome": "Penne all'arrabbiata",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+      "penne": "80g",
+      "pomodori pelati": "100g",
+      "peperoncino": "1",
+      "aglio": "1 spicchio",
+      "olio d'oliva": "1 cucchiaio",
+      "prezzemolo": "1 cucchiaio",
+      "sale": "qb"
+    },
+    "nutrizione": {
+      "calorie": 372,
+      "proteine": 10,
+      "grassi": 8,
+      "carboidrati": 67,
+      "fibra": 4
+    }
+  },
+  {
+    "nome": "Linguine alle vongole",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+      "linguine": "80g",
+      "vongole veraci": "200g",
+      "aglio": "2 spicchi",
+      "prezzemolo": "1 cucchiaio",
+      "olio d'oliva": "1 cucchiaio",
+      "sale": "qb"
+    },
+    "nutrizione": {
+      "calorie": 414,
+      "proteine": 22,
+      "grassi": 10,
+      "carboidrati": 63,
+      "fibra": 3
+    }
+  },
+  {
+    "nome": "Tagliatelle al ragù",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+      "tagliatelle": "80g",
+      "carne macinata": "100g",
+      "pomodori pelati": "100g",
+      "carota": "1",
+      "sedano": "1 gambo",
+      "cipolla": "0.5",
+      "olio d'oliva": "1 cucchiaio",
+      "sale": "qb"
+    },
+    "nutrizione": {
+      "calorie": 440,
+      "proteine": 18,
+      "grassi": 13,
+      "carboidrati": 63,
+      "fibra": 5
+    }
+  },
+  {
+    "nome": "Spaghetti alla carbonara",
+    "glutine": true,
+    "latticini": true,
+    "ingredienti": {
+      "spaghetti": "80g",
+      "pancetta": "80g",
+      "uova": "2",
+      "pecorino romano grattugiato": "50g",
+      "pepe nero": "qb",
+      "sale": "qb"
+    },
+    "nutrizione": {
+      "calorie": 558,
+      "proteine": 28,
+      "grassi": 26,
+      "carboidrati": 52,
+      "fibra": 2
+    }
+    },
+    {
+      "nome": "Penne ai quattro formaggi",
+      "glutine": true,
+      "latticini": true,
+      "ingredienti": {
+        "penne": "80g",
+        "gorgonzola": "40g",
+        "parmigiano reggiano grattugiato": "20g",
+        "fontina": "40g",
+        "pomodori secchi": "20g",
+        "pan grattato": "20g",
+        "olio d'oliva": "1 cucchiaio",
+        "sale": "qb"
+      },
+      "nutrizione": {
+        "calorie": 620,
+        "proteine": 25,
+        "grassi": 30,
+        "carboidrati": 60,
+        "fibra": 4
+    }
+    },
+    {
+      "nome": "Linguine al pesto",
+        "glutine": true,
+        "latticini": true,
+      "ingredienti": {
+        "linguine": "80g",
+        "basilico fresco": "50g",
+        "pinoli": "20g",
+        "parmigiano reggiano grattugiato": "30g",
+        "olio d'oliva": "3 cucchiai",
+        "aglio": "1 spicchio",
+        "sale": "qb"
+      },
+      "nutrizione": {
+        "calorie": 520,
+        "proteine": 16,
+        "grassi": 32,
+        "carboidrati": 43,
+        "fibra": 3
+      }
+    },
+    {
+      "nome": "Paccheri al ragù di pesce",
+      "glutine": true,
+      "latticini": false,
+      "ingredienti": {
+        "paccheri": "80g",
+        "pomodori pelati": "100g",
+        "polpa di granchio": "80g",
+        "aglio": "2 spicchi",
+        "prezzemolo": "1 cucchiaio",
+        "olio d'oliva": "1 cucchiaio",
+        "sale": "qb"
+    },
+      "nutrizione": {
+        "calorie": 372,
+        "proteine": 22,
+        "grassi": 10,
+        "carboidrati": 47,
+        "fibra": 4
+    }
+    },
+    {
+    "nome": "Fettuccine all'uovo con funghi porcini",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+    "fettuccine all'uovo": "80g",
+    "funghi porcini": "100g",
+    "aglio": "1 spicchio",
+    "olio d'oliva":"2 cucchiai",
+    "prezzemolo": "1 cucchiaio",
+    "sale": "qb"
+    },
+    "nutrizione": {
+    "calorie": 444,
+    "proteine": 16,
+    "grassi": 12,
+    "carboidrati": 67,
+    "fibra": 6
+    }
+    },
+    {
+    "nome": "Spaghetti alle vongole",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+    "spaghetti": "80g",
+    "vongole": "200g",
+    "aglio": "2 spicchi",
+    "prezzemolo": "1 cucchiaio",
+    "olio d'oliva": "2 cucchiai",
+    "peperoncino": "qb",
+    "sale": "qb"
+    },
+    "nutrizione": {
+    "calorie": 453,
+    "proteine": 23,
+    "grassi": 13,
+    "carboidrati": 62,
+    "fibra": 2
+    }
+    },
+    {
+    "nome": "Tagliatelle al salmone",
+    "glutine": true,
+    "latticini": true,
+    "ingredienti": {
+    "tagliatelle": "80g",
+    "salmone affumicato": "60g",
+    "pomodori secchi": "20g",
+    "panna da cucina": "50ml",
+    "cipolla": "0.5",
+    "burro": "20g",
+    "prezzemolo": "1 cucchiaio",
+    "sale": "qb"
+    },
+    "nutrizione": {
+    "calorie": 590,
+    "proteine": 21,
+    "grassi": 30,
+    "carboidrati": 55,
+"fibra": 3
+}
+},
+{
+"nome": "Farfalle con zucchine e gamberetti",
+"glutine": true,
+"latticini": true,
+"ingredienti": {
+"farfalle": "80g",
+"zucchine": "150g",
+"gamberetti": "80g",
+"aglio": "2 spicchi",
+"olio d'oliva": "2 cucchiai",
+"burro": "20g",
+"prezzemolo": "1 cucchiaio",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 459,
+"proteine": 20,
+"grassi": 13,
+"carboidrati": 64,
+"fibra": 3
+}
+},
+{
+"nome": "Paccheri al ragù di carne",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"paccheri": "80g",
+"carne macinata": "150g",
+"pomodori pelati": "100g",
+"cipolla": "0.5",
+"carota": "0.5",
+"sedano": "0.5 gambo",
+"vino rosso": "50ml",
+"olio d'oliva": "2 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 451,
+"proteine": 19,
+"grassi": 10,
+"carboidrati": 68,
+"fibra": 5
+}
+},
+{
+"nome": "Gnocchi al pesto",
+"glutine": true,
+"latticini": true,
+"ingredienti": {
+"gnocchi": "200g",
+"pesto": "50g",
+"patate": "150g",
+"olio d'oliva": "2 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 632,
+"proteine": 12,
+"grassi": 31,
+"carboidrati": 77,
+"fibra": 7
+}
+},
+{
+"nome": "Fusilli alla boscaiola",
+"glutine": true,
+"latticini": true,
+"ingredienti": {
+"fusilli": "80g",
+"funghi porcini": "50g",
+"pancetta": "50g",
+"cipolla": "0.5",
+"pomodori pelati": "100g",
+"panna da cucina": "50ml",
+"prezzemolo": "1 cucchiaio",
+"olio d'oliva": "2 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 480,
+"proteine": 15,
+"grassi": 18,
+"carboidrati": 61,
+"fibra": 5
+}
+},
+{
+"nome": "Ravioli al burro e salvia",
+"glutine": true,
+"latticini": true,
+"ingredienti": {
+"ravioli di carne": "150g",
+"burro": "30g",
+"salvia": "6 foglie",
+"parmigiano reggiano grattugiato": "1 cucchiaio",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 606,
+"proteine": 19,
+"grassi": 33,
+"carboidrati": 53,
+"fibra": 3
+}
+},
+{
+"nome": "Lasagne alla bolognese",
+"glutine": true,
+"latticini": true,
+"ingredienti": {
+"sfoglia per lasagne": "150g",
+"carne macinata": "150g",
+"pomodori pelati": "100g",
+"cipolla": "0.5",
+"carota": "0.5",
+"sedano": "0.5 gambo",
+"latte intero": "50ml",
+"parmigiano reggiano grattugiato": "2 cucchiai",
+"burro": "20g",
+"olio d'oliva": "2 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 557,
+"proteine": 28,
+"grassi": 24,
+"carboidrati": 54,
+"fibra": 5
+}
+},
+{
+"nome": "Orecchiette con le cime di rapa",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"orecchiette": "80g",
+"cimedi rapa": "200g",
+"acciughe sott'olio": "3 filetti",
+"aglio": "1 spicchio",
+"olio d'oliva": "3 cucchiai",
+"peperoncino": "qb",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 328,
+"proteine": 12,
+"grassi": 11,
+"carboidrati": 46,
+"fibra": 7
+}
+},
+{
+"nome": "Tagliatelle al ragù di agnello",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"tagliatelle": "80g",
+"agnello a pezzetti": "150g",
+"carote": "0.5",
+"sedano": "0.5 gambo",
+"cipolla": "0.5",
+"pomodori pelati": "100g",
+"brodo di carne": "200ml",
+"olio d'oliva": "2 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 517,
+"proteine": 25,
+"grassi": 19,
+"carboidrati": 61,
+"fibra": 4
+}
+},
+{
+"nome": "Spaghetti alle vongole e bottarga",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"spaghetti": "80g",
+"vongole": "500g",
+"aglio": "1 spicchio",
+"olio d'oliva": "3 cucchiai",
+"peperoncino": "qb",
+"bottarga grattugiata": "1 cucchiaio",
+"prezzemolo": "1 cucchiaio",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 340,
+"proteine": 22,
+"grassi": 11,
+"carboidrati": 35,
+"fibra": 2
+}
+},
+{
+"nome": "Fettuccine al ragù di cinghiale",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"fettuccine": "80g",
+"cinghiale a pezzetti": "150g",
+"carote": "0.5",
+"sedano": "0.5 gambo",
+"cipolla": "0.5",
+"pomodori pelati": "100g",
+"brodo di carne": "200ml",
+"olio d'oliva": "2 cucchiai",
+"vino rosso": "50ml",
+"rosmarino": "qb",
+"salvia": "qb",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 546,
+"proteine": 28,
+"grassi": 21,
+"carboidrati": 58,
+"fibra": 4
+}
+},
+{
+"nome": "Rigatoni alla norma",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"rigatoni": "80g",
+"melanzane": "1",
+"pomodori pelati": "200g",
+"cipolla": "0.5",
+"aglio": "1 spicchio",
+"basilico": "qb",
+"olio d'oliva": "3 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 318,
+"proteine": 10,
+"grassi": 7,
+"carboidrati": 56,
+"fibra": 6
+}
+},
+{
+"nome": "Tagliatelle al ragù di funghi",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"tagliatelle": "80g",
+"funghi misti": "150g",
+"cipolla": "0.5",
+"carote": "0.5",
+"sedano": "0.5 gambo",
+"pomodori pelati": "100g",
+"brodo di carne": "200ml",
+"olio d'oliva": "2 cucchiai",
+"vino rosso": "50ml",
+"rosmarino": "qb",
+"salvia": "qb",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 406,
+"proteine": 13,
+"grassi": 16,
+"carboidrati": 51,
+"fibra": 4
+}
+},
+{
+"nome": "Farfalle al salmone",
+"glutine": true,
+"latticini": true,
+"ingredienti": {
+"farfalle": "80g",
+"salmone affumicato": "80g",
+"pomodorini": "100g",
+"cipolla": "0.5",
+"panna da cucina": "50ml",
+"prezzemolo": "qb",
+"olio d'oliva": "2 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 468,
+"proteine": 16,
+"grassi": 21,
+"carboidrati": 51,
+"fibra": 3
+}
+},
+{
+"nome": "Fusilli alla mediterranea",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"fusilli": "80g",
+"pomodori freschi": "200g",
+"zucchine": "1",
+"melanzane": "0.5",
+"cipolla": "0.5",
+"aglio": "1 spicchio",
+"origano": "qb",
+"basilico": "qb",
+"olio d'oliva": "3 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 304,
+"proteine": 7,
+"grassi": 8,
+"carboidrati": 52,
+"fibra": 6
+}
+},
+{
+"nome": "Paccheri con gamberi e zucchine",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"paccheri": "80g",
+"gamberi": "150g",
+"zucchine": "1",
+"cipolla": "0.5",
+"aglio": "1 spicchio",
+"pomodorini": "100g",
+"vino bianco": "50ml",
+"prezzemolo": "qb",
+"olio d'oliva": "3 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 368,
+"proteine": 16,
+"grassi": 7,
+"carboidrati": 59,
+"fibra": 4
+}
+},
+{
+"nome": "Linguine alle vongole e zucchine",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"linguine": "80g",
+"vongole veraci": "500g",
+"zucchine": "1",
+"aglio": "1 spicchio",
+"prezzemolo": "qb",
+"olio d'oliva": "3 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 313,
+"proteine": 20,
+"grassi": 6,
+"carboidrati": 47,
+"fibra": 2
+}
+},
+{
+"nome": "Pappardelle al sugo di lepre",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"pappardelle": "80g",
+"lepre": "200g",
+"carote": "0.5",
+"sedano": "0.5 gambo",
+"cipolla": "0.5",
+"passata di pomodoro": "100g",
+"brodo di carne": "200ml",
+"olio d'oliva": "3 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 421,
+"proteine": 29,
+"grassi": 10,
+"carboidrati": 53,
+"fibra": 5
+}
+},
+{
+"nome": "Penne alla boscaiola",
+"glutine": true,
+"latticini": true,
+"ingredienti": {
+"penne rigate": "80g",
+"funghi porcini": "150g",
+"salsiccia": "150g",
+"cipolla": "0.5",
+"panna": "50ml",
+"parmigiano reggiano": "30g",
+"olio d'oliva": "3 cucchiai",
+"sale": "qb",
+"pepe": "qb"
+},
+"nutrizione": {
+"calorie": 622,
+"proteine": 22,
+"grassi": 34,
+"carboidrati": 55,
+"fibra": 3
+}
+},
+{
+"nome": "Penne alla norma",
+"glutine": true,
+"latticini": true,
+"ingredienti": {
+"penne rigate": "80g",
+"melanzane": "1",
+"pomodori pelati": "100g",
+"cipolla": "0.5",
+"basilico": "qb",
+"ricotta salata": "30g",
+"olio d'oliva": "3 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 396,
+"proteine": 12,
+"grassi": 17,
+"carboidrati": 49,
+"fibra": 6
+}
+},
+{
+"nome": "Fusilli con pomodori secchi e ricotta salata",
+"glutine": true,
+"latticini": true,
+"ingredienti": {
+"fusilli": "80g",
+"pomodori secchi": "100g",
+"ricotta salata": "50g",
+"aglio": "1 spicchio",
+"prezzemolo": "qb",
+"olio d'oliva": "3 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 461,
+"proteine": 15,
+"grassi": 19,
+"carboidrati": 56,
+"fibra": 4
+}
+},
+{
+"nome": "Tagliatelle alla bolognese",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"tagliatelle all'uovo": "80g",
+"carne macinata di manzo": "150g",
+"passata di pomodoro": "100g",
+"carota": "0.5",
+"sedano": "0.5 gambo",
+"cipolla": "0.5",
+"vino rosso": "50ml",
+"olio d'oliva": "3 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 450,
+"proteine": 24,
+"grassi": 18,
+"carboidrati": 46,
+"fibra": 4
+}
+},
+{
+"nome": "Lasagne al ragù",
+"glutine": true,
+"latticini": true,
+"ingredienti": {
+"sfoglia per lasagne": "120g",
+"ragù alla bolognese": "150g",
+"besciamella": "50ml",
+"parmigiano reggiano": "30g",
+"olio d'oliva": "3 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 629,
+"proteine": 24,
+"grassi": 32,
+"carboidrati": 59,
+"fibra": 3
+}
+},
+{
+"nome": "Rigatoni all'amatriciana",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"rigatoni": "80g",
+"guanciale": "50g",
+"pomodori pelati": "100g",
+"cipolla": "0.5",
+"peperoncino": "0.5",
+"olio d'oliva": "3 cucchiai",
+"sale": "qb",
+"pecorino romano": "30g"
+},
+"nutrizione": {
+"calorie": 456,
+"proteine": 15,
+"grassi": 21,
+"carboidrati": 49,
+"fibra": 3
+}
+},
+{
+"nome": "Gnocchi alla sorrentina",
+"glutine": true,
+"latticini": true,
+"ingredienti": {
+"gnocchi di patate": "250g",
+"pomodori pelati": "100g",
+"mozzarella di bufala": "150g",
+"basilico": "qb",
+"olio d'oliva": "3 cucchiai",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 476,
+"proteine": 19,
+"grassi": 17,
+"carboidrati": 62,
+"fibra": 4
+}
+}]}

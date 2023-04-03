@@ -1,0 +1,466 @@
+{
+  "piatti" : [
+    {
+      "nome": "Filetto al pepe verde",
+      "glutine": false,
+      "latticini": true,
+      "ingredienti": {
+        "filetto di manzo": "150g",
+        "panna": "50ml",
+        "brodo di carne": "50ml",
+        "pepe verde": "1 cucchiaio",
+        "burro": "1 cucchiaio",
+        "olio d'oliva": "1 cucchiaio",
+        "sale": "qb"
+      },
+      "nutrizione": {
+        "calorie": 455,
+        "proteine": 30,
+        "grassi": 34,
+        "carboidrati": 2,
+        "fibra": 0
+      }
+  },
+  {
+    "nome": "Pollo alla cacciatora",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+      "petto di pollo": "150g",
+      "pomodori pelati": "100g",
+      "cipolla": "0.5",
+      "carota": "0.5",
+      "sedano": "1 gambo",
+      "vino rosso": "50ml",
+      "brodo di pollo": "50ml",
+      "rosmarino": "1 rametto",
+      "alloro": "1 foglia",
+      "olio d'oliva": "1 cucchiaio",
+      "sale": "qb",
+      "pepe": "qb"
+    },
+    "nutrizione": {
+      "calorie": 244,
+      "proteine": 24,
+      "grassi": 10,
+      "carboidrati": 11,
+      "fibra": 2
+    }
+},
+{
+  "nome": "Scaloppine al limone",
+  "glutine": true,
+  "latticini": false,
+  "ingredienti": {
+    "fettine di vitello": "150g",
+    "farina": "1 cucchiaio",
+    "limone": "1",
+    "burro": "10g",
+    "olio d'oliva": "1 cucchiaio",
+    "sale": "qb",
+    "pepe": "qb"
+  },
+  "nutrizione": {
+    "calorie": 282,
+    "proteine": 29,
+    "grassi": 16,
+    "carboidrati": 8,
+    "fibra": 1
+  }
+},
+{
+  "nome": "Polpettone",
+  "glutine": true,
+  "latticini": true,
+  "ingredienti": {
+    "macinato di vitello": "100g",
+    "macinato di maiale": "100g",
+    "uovo": "1",
+    "pan grattato": "30g",
+    "latte": "20ml",
+    "parmigiano reggiano": "20g",
+    "cipolla": "0.5",
+    "carota": "0.5",
+    "sedano": "0.5 gambo",
+    "prezzemolo": "1 cucchiaio",
+    "olio d'oliva": "1 cucchiaio",
+    "sale": "qb",
+    "pepe": "qb"
+  },
+  "nutrizione": {
+    "calorie": 396,
+    "proteine": 28,
+    "grassi": 24,
+    "carboidrati": 18,
+    "fibra": 2
+  }
+},
+{
+  "nome": "Bistecca di manzo alla griglia",
+  "glutine": false,
+  "latticini": false,
+  "ingredienti": {
+  "bistecca di manzo": "150g",
+  "olio d'oliva": "1 cucchiaio",
+  "aglio": "1 spicchio",
+  "rosmarino": "1 rametto",
+  "sale": "qb",
+  "pepe": "qb"
+  },
+  "nutrizione": {
+  "calorie": 312,
+  "proteine": 28,
+  "grassi": 22,
+  "carboidrati": 0,
+  "fibra": 0
+  }
+  },
+  {
+  "nome": "Costolette di agnello al forno",
+  "glutine": false,
+  "latticini": false,
+  "ingredienti": {
+  "costolette di agnello": "2",
+  "patate": "150g",
+  "aglio": "1 spicchio",
+  "rosmarino": "1 rametto",
+  "olio d'oliva": "1 cucchiaio",
+  "sale": "qb",
+  "pepe": "qb"
+  },
+  "nutrizione": {
+  "calorie": 420,
+  "proteine": 24,
+  "grassi": 33,
+  "carboidrati": 9,
+  "fibra": 2
+  }
+  },
+  {
+  "nome": "Bistecca di maiale alla piastra",
+  "glutine": false,
+  "latticini": false,
+  "ingredienti": {
+  "bistecca di maiale": "150g",
+  "zenzero fresco": "1 cm",
+  "aglio": "1 spicchio",
+  "olio d'oliva": "1 cucchiaio",
+  "sale": "qb",
+  "pepe": "qb"
+  },
+  "nutrizione": {
+  "calorie": 295,
+  "proteine": 31,
+  "grassi": 19,
+  "carboidrati": 1,
+  "fibra": 0
+  }
+  },
+  {
+  "nome": "Fettine di tacchino alla pizzaiola",
+  "glutine": false,
+  "latticini": false,
+  "ingredienti": {
+  "fettine di tacchino": "150g",
+  "polpa di pomodoro": "150g",
+  "origano": "1 cucchiaino",
+  "aglio": "1 spicchio",
+  "olio d'oliva": "1 cucchiaio",
+  "sale": "qb",
+  "pepe": "qb"
+  },
+  "nutrizione": {
+  "calorie": 220,
+  "proteine": 34,
+  "grassi": 8,
+  "carboidrati": 3,
+  "fibra": 1
+  }
+  },
+  {
+  "nome": "Arrosto di vitello",
+  "glutine": false,
+  "latticini": false,
+  "ingredienti": {
+  "carne di vitello": "150g",
+  "carote": "50g",
+  "cipolla": "0.5",
+  "sedano": "20g",
+  "brodo vegetale": "50ml",
+  "olio d'oliva": "1 cucchiaio",
+  "rosmarino": "1 rametto",
+  "sale": "qb",
+  "pepe": "qb"
+  },
+  "nutrizione": {
+  "calorie": 304,
+  "proteine": 35,
+  "grassi": 16,
+  "carboidrati": 3,
+  "fibra": 1
+  }
+  },
+  {
+    "nome": "Tagliata di manzo con rucola e grana",
+    "glutine": true,
+    "latticini": true,
+    "ingredienti": {
+      "bistecca di manzo": "200g",
+      "rucola": "50g",
+      "grana": "30g",
+      "aceto balsamico": "1 cucchiaio",
+      "olio d'oliva": "1 cucchiaio",
+      "sale": "qb",
+      "pepe": "qb"
+    },
+    "nutrizione": {
+      "calorie": 470,
+      "proteine": 48,
+      "grassi": 26,
+      "carboidrati": 5,
+      "fibra": 1
+    }
+  },
+  {
+    "nome": "Costolette di maiale al forno",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+      "costolette di maiale": "200g",
+      "rosmarino": "1 rametto",
+      "aglio": "1 spicchio",
+      "patate": "2",
+      "olio d'oliva": "1 cucchiaio",
+      "sale": "qb",
+      "pepe": "qb"
+    },
+    "nutrizione": {
+      "calorie": 472,
+      "proteine": 27,
+      "grassi": 27,
+      "carboidrati": 28,
+      "fibra": 3
+    }
+  },
+  {
+    "nome": "Scaloppine ai funghi",
+    "glutine": false,
+    "latticini": true,
+    "ingredienti": {
+      "fettine di vitello": "150g",
+      "funghi champignon": "50g",
+      "burro": "20g",
+      "farina": "1 cucchiaio",
+      "brodo vegetale": "50ml",
+      "prezzemolo": "1 cucchiaio",
+      "sale": "qb",
+      "pepe": "qb"
+    },
+    "nutrizione": {
+      "calorie": 312,
+      "proteine": 31,
+      "grassi": 14,
+      "carboidrati": 14,
+      "fibra": 3
+    }
+  },
+  {
+    "nome": "Polpettone alla genovese",
+    "glutine": true,
+    "latticini": true,
+    "ingredienti": {
+      "carne macinata di manzo": "150g",
+      "panna da cucina": "20ml",
+      "parmigiano reggiano grattugiato": "1 cucchiaio",
+      "uova": "1",
+      "cipolla": "0.5",
+      "pan grattato": "1 cucchiaio",
+      "prezzemolo": "1 cucchiaio",
+      "sale": "qb",
+      "pepe": "qb"
+    },
+    "nutrizione": {
+      "calorie": 312,
+      "proteine": 25,
+      "grassi": 17,
+      "carboidrati": 15,
+      "fibra": 1
+    }
+  },
+  {
+    "nome": "Spezzatino di manzo",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+      "carne di manzo": "150g",
+      "carote": "50g",
+      "cipolla": "0.5",
+      "sedano": "20g",
+      "brodo vegetale": "50ml",
+      "olio d'oliva": "1 cucchiaio",
+      "prezzemolo": "1 cucchiaio",
+      "sale": "qb",
+      "pepe": "qb"
+    },
+    "nutrizione": {
+      "calorie": 275,
+      "proteine": 38,
+      "grassi": 12,
+      "carboidrati": 0,
+      "fibra": 0
+    }
+  },
+  {
+  "nome": "Polpette di carne",
+  "glutine": true,
+  "latticini": false,
+  "ingredienti": {
+  "carne macinata": "100g",
+  "pane grattugiato": "1 cucchiaio",
+  "uovo": "1",
+  "cipolla": "0.5",
+  "prezzemolo": "1 cucchiaio",
+  "aglio": "1 spicchio",
+  "olio d'oliva": "1 cucchiaio",
+  "sale": "qb",
+  "pepe": "qb"
+  },
+  "nutrizione": {
+  "calorie": 215,
+  "proteine": 16,
+  "grassi": 15,
+  "carboidrati": 5,
+  "fibra": 1
+  }
+  },
+{
+"nome": "Filetto di manzo al pepe verde",
+"glutine": false,
+"latticini": true,
+"ingredienti": {
+"filetto di manzo": "150g",
+"panna": "50ml",
+"brodo di carne": "50ml",
+"pepe verde in salamoia": "1 cucchiaio",
+"burro": "1 cucchiaio",
+"sale": "qb"
+},
+"nutrizione": {
+"calorie": 426,
+"proteine": 38,
+"grassi": 27,
+"carboidrati": 5,
+"fibra": 0
+}
+},
+{
+"nome": "Hamburger di manzo",
+"glutine": true,
+"latticini": false,
+"ingredienti": {
+"carne di manzo macinata": "150g",
+"pan grattato senza glutine": "1 cucchiaio",
+"uovo": "1",
+"cipolla": "0.25",
+"senape": "1 cucchiaino",
+"ketchup senza glutine": "1 cucchiaino",
+"sale": "qb",
+"pepe": "qb"
+},
+"nutrizione": {
+"calorie": 312,
+"proteine": 30,
+"grassi": 18,
+"carboidrati": 7,
+"fibra": 0
+}
+},
+{
+  "nome": "Filetto di manzo alla griglia",
+  "glutine": false,
+  "latticini": false,
+  "ingredienti": {
+    "filetto di manzo": "150g",
+    "rosmarino": "1 rametto",
+    "aglio": "1 spicchio",
+    "sale": "qb",
+    "pepe": "qb",
+    "olio d'oliva": "1 cucchiaio"
+  },
+  "nutrizione": {
+    "calorie": 240,
+    "proteine": 34,
+    "grassi": 10,
+    "carboidrati": 0,
+    "fibra": 0
+  }
+},
+{
+  "nome": "Polpettone al forno",
+  "glutine": true,
+  "latticini": true,
+  "ingredienti": {
+    "carne macinata di manzo": "150g",
+    "pane grattugiato": "2 cucchiai",
+    "latte": "1 cucchiaio",
+    "parmigiano reggiano grattugiato": "1 cucchiaio",
+    "uova": "1",
+    "cipolla": "0.5",
+    "prezzemolo": "1 cucchiaio",
+    "sale": "qb",
+    "pepe": "qb"
+  },
+  "nutrizione": {
+    "calorie": 280,
+    "proteine": 25,
+    "grassi": 14,
+    "carboidrati": 14,
+    "fibra": 1
+  }
+},
+{
+  "nome": "Bistecca con patate al forno",
+  "glutine": false,
+  "latticini": false,
+  "ingredienti": {
+    "bistecca di manzo": "150g",
+    "patate": "150g",
+    "rosmarino": "1 rametto",
+    "aglio": "1 spicchio",
+    "olio d'oliva": "1 cucchiaio",
+    "sale": "qb",
+    "pepe": "qb"
+  },
+  "nutrizione": {
+    "calorie": 410,
+    "proteine": 38,
+    "grassi": 18,
+    "carboidrati": 25,
+    "fibra": 3
+  }
+},
+{
+  "nome": "Scaloppine alla milanese",
+  "glutine": true,
+  "latticini": true,
+  "ingredienti": {
+    "fettine di vitello": "150g",
+    "uovo": "1",
+    "farina": "1 cucchiaio",
+    "pane grattugiato": "50g",
+    "parmigiano reggiano grattugiato": "1 cucchiaio",
+    "burro": "1 cucchiaio",
+    "limone": "0.5",
+    "sale": "qb",
+    "pepe": "qb"
+  },
+  "nutrizione": {
+    "calorie": 460,
+    "proteine": 32,
+    "grassi": 28,
+    "carboidrati": 21,
+    "fibra": 2
+    }
+    }
+  
+    ]}

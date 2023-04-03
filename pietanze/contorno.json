@@ -1,0 +1,282 @@
+{
+    "piatti":[
+    {
+    "nome": "Insalata di pomodorini",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "pomodorini ciliegia": "100g",
+    "rucola": "50g",
+    "cipolla rossa": "0.25",
+    "aceto balsamico": "1 cucchiaio",
+    "olio d'oliva": "1 cucchiaio",
+    "sale": "qb",
+    "pepe": "qb"
+    },
+    "nutrizione": {
+    "calorie": 55,
+    "proteine": 2,
+    "grassi": 4,
+    "carboidrati": 4,
+    "fibra": 1
+    }
+    },  
+    {
+    "nome": "Patate al forno",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "patate": "200g",
+    "aglio": "2 spicchi",
+    "rosmarino": "1 rametto",
+    "olio d'oliva": "1 cucchiaio",
+    "sale": "qb",
+    "pepe": "qb"
+    },
+    "nutrizione": {
+    "calorie": 215,
+    "proteine": 3,
+    "grassi": 8,
+    "carboidrati": 32,
+    "fibra": 3
+    }
+    },   
+    {
+    "nome": "Insalata di finocchi",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "finocchi": "1",
+    "ravanelli": "4",
+    "prezzemolo": "1 cucchiaio",
+    "aceto di mele": "1 cucchiaio",
+    "olio d'oliva": "1 cucchiaio",
+    "sale": "qb",
+    "pepe": "qb"
+    },
+    "nutrizione": {
+    "calorie": 80,
+    "proteine": 2,
+    "grassi": 5,
+    "carboidrati": 8,
+    "fibra": 3
+    }
+    },
+    {
+    "nome": "Zucchine grigliate",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "zucchine": "2",
+    "aglio": "1 spicchio",
+    "origano": "1 cucchiaino",
+    "olio d'oliva": "1 cucchiaio",
+    "sale": "qb",
+    "pepe": "qb"
+    },
+    "nutrizione": {
+    "calorie": 65,
+    "proteine": 2,
+    "grassi": 5,
+    "carboidrati": 4,
+    "fibra": 2
+    }
+    },
+    {
+    "nome": "Funghi trifolati",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "funghi champignon": "100g",
+    "aglio": "1 spicchio",
+    "prezzemolo": "1 cucchiaio",
+    "olio d'oliva": "1 cucchiaio"
+    },
+    "nutrizione": {
+    "calorie": 81,
+    "proteine": 3,
+    "grassi": 5,
+    "carboidrati": 7,
+    "fibra": 2
+    }
+    },
+    {
+    "nome": "Insalata mista",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "lattuga": "50g",
+    "pomodorini": "50g",
+    "carote": "50g",
+    "cipolla rossa": "0.25",
+    "olive nere": "30g",
+    "olio d'oliva": "1 cucchiaio",
+    "aceto balsamico": "1 cucchiaio",
+    "sale": "qb",
+    "pepe": "qb"
+    },
+    "nutrizione": {
+    "calorie": 91,
+    "proteine": 2,
+    "grassi": 6,
+    "carboidrati": 7,
+    "fibra": 3
+    }
+    },
+    {
+    "nome": "Fagiolini al pomodoro",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "fagiolini": "100g",
+    "pomodori pelati": "50g",
+    "cipolla": "0.25",
+    "aglio": "1 spicchio",
+    "olio d'oliva": "1 cucchiaio",
+    "sale": "qb",
+    "pepe": "qb",
+    "basilico": "qb"
+    },
+    "nutrizione": {
+    "calorie": 71,
+    "proteine": 2,
+    "grassi": 4,
+    "carboidrati": 7,
+    "fibra": 3
+    }
+    },
+    {
+    "nome": "Purea di patate",
+    "glutine": false,
+    "latticini": true,
+    "ingredienti": {
+    "patate": "150g",
+    "latte": "50ml",
+    "burro": "10g",
+    "sale": "qb",
+    "pepe": "qb",
+    "noce moscata": "qb"
+    },
+    "nutrizione": {
+    "calorie": 185,
+    "proteine": 4,
+    "grassi": 6,
+    "carboidrati": 29,
+    "fibra": 3
+    }
+    },
+    {
+    "nome": "Cavolo verza stufato",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "cavolo verza": "100g",
+    "cipolla": "0.25",
+    "aglio": "1 spicchio",
+    "brodo vegetale": "50ml",
+    "olio d'oliva": "1 cucchiaio",
+    "sale": "qb",
+    "pepe": "qb",
+    "paprika": "qb"
+    },
+    "nutrizione": {
+    "calorie": 61,
+    "proteine": 2,
+    "grassi": 4,
+    "carboidrati": 6,
+    "fibra": 3
+    }
+    },
+    {
+        "nome": "Pomodorini al forno",
+        "glutine": false,
+        "latticini": false,
+        "ingredienti": {
+        "pomodorini": "150g",
+        "aglio": "1 spicchio",
+        "olio d'oliva": "1 cucchiaio",
+        "sale": "qb",
+        "pepe": "qb"
+        },
+        "nutrizione": {
+        "calorie": 60,
+        "proteine": 1,
+        "grassi": 4,
+        "carboidrati": 6,
+        "fibra": 1
+        }
+        },
+        {
+        "nome": "Melanzane alla griglia",
+        "glutine": false,
+        "latticini": false,
+        "ingredienti": {
+        "melanzane": "1",
+        "olio d'oliva": "1 cucchiaio",
+        "sale": "qb",
+        "pepe": "qb"
+        },
+        "nutrizione": {
+        "calorie": 60,
+        "proteine": 1,
+        "grassi": 4,
+        "carboidrati": 5,
+        "fibra": 2
+        }
+        },       
+        {
+        "nome": "Insalata di finocchi e arance",
+        "glutine": false,
+        "latticini": false,
+        "ingredienti": {
+        "finocchi": "1",
+        "arancia": "1",
+        "olio d'oliva": "1 cucchiaio",
+        "sale": "qb",
+        "pepe": "qb"
+        },
+        "nutrizione": {
+        "calorie": 75,
+        "proteine": 1,
+        "grassi": 4,
+        "carboidrati": 11,
+        "fibra": 3
+        }
+        },
+        {
+            "nome": "Asparagi al vapore",
+            "glutine": false,
+            "latticini": false,
+            "ingredienti": {
+            "asparagi": "150g",
+            "olio d'oliva": "1 cucchiaio",
+            "pepe": "qb"
+        },
+        "nutrizione": {
+        "calorie": 60,
+        "proteine": 3,
+        "grassi": 5,
+        "carboidrati": 3,
+        "fibra": 2
+        }
+        },
+        {
+        "nome": "Broccoli al vapore",
+        "glutine": false,
+        "latticini": false,
+        "ingredienti": {
+        "broccoli": "150g",
+        "olio d'oliva": "1 cucchiaio",
+        "sale": "qb",
+        "pepe": "qb"
+        },
+        "nutrizione": {
+        "calorie": 50,
+        "proteine": 5,
+        "grassi": 3,
+        "carboidrati": 5,
+        "fibra": 3
+        }
+        }
+    ]}
+        

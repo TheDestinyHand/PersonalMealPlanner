@@ -1,0 +1,440 @@
+{   "piatti":[{
+    "nome": "Frutta fresca",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "mela": "1",
+    "banana": "1",
+    "kiwi": "1"
+    },
+    "nutrizione": {
+    "calorie": 200,
+    "proteine": 2,
+    "grassi": 1,
+    "carboidrati": 50,
+    "fibra": 7
+    }
+    },
+    
+    {
+    "nome": "Yogurt con frutta secca",
+    "glutine": false,
+    "latticini": true,
+    "ingredienti": {
+    "yogurt bianco magro": "150g",
+    "mandorle": "10",
+    "uvetta": "20g"
+    },
+    "nutrizione": {
+    "calorie": 230,
+    "proteine": 10,
+    "grassi": 7,
+    "carboidrati": 33,
+    "fibra": 3
+    }
+    },
+    
+    {
+    "nome": "Barrette di cereali e frutta secca",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+    "fiocchi di avena": "50g",
+    "mandorle": "20g",
+    "uvetta": "20g",
+    "miele": "2 cucchiai"
+    },
+    "nutrizione": {
+    "calorie": 220,
+    "proteine": 5,
+    "grassi": 7,
+    "carboidrati": 35,
+    "fibra": 5
+    }
+    },
+    
+    {
+    "nome": "Smoothie alla frutta",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "banana": "1",
+    "fragole": "150g",
+    "latte di soia": "200ml"
+    },
+    "nutrizione": {
+    "calorie": 200,
+    "proteine": 6,
+    "grassi": 4,
+    "carboidrati": 35,
+    "fibra": 5
+    }
+    },
+    {
+    "nome": "Macedonia di frutta con miele",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "ananas": "1 fetta",
+    "mela": "1",
+    "pera": "1",
+    "kiwi": "1",
+    "miele": "1 cucchiaio"
+    },
+    "nutrizione": {
+    "calorie": 220,
+    "proteine": 4,
+    "grassi": 8,
+    "carboidrati": 32,
+    "fibra": 2
+    }
+    },
+    {
+    "nome": "Smoothie alla fragola",
+    "glutine": false,
+    "latticini": true,
+    "ingredienti": {
+    "fragole": "150g",
+    "latte di mandorla": "200ml",
+    "yogurt greco": "100g",
+    "miele": "1 cucchiaio"
+    },
+    "nutrizione": {
+    "calorie": 190,
+    "proteine": 7,
+    "grassi": 3,
+    "carboidrati": 33,
+    "fibra": 3
+    }
+    },
+    {
+    "nome": "Barrette energetiche alla banana",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+    "banana": "1",
+    "mandorle tritate": "50g",
+    "avena": "50g",
+    "miele": "1 cucchiaio",
+    "olio di cocco": "1 cucchiaio"
+    },
+    "nutrizione": {
+    "calorie": 230,
+    "proteine": 6,
+    "grassi": 10,
+    "carboidrati": 29,
+    "fibra": 4
+    }
+    },
+    {
+    "nome": "Torta di mele senza glutine",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+    "mele": "2",
+    "farina di riso": "150g",
+    "zucchero di canna": "100g",
+    "uova": "2",
+    "olio di semi di girasole": "60ml",
+    "lievito per dolci": "1 bustina",
+    "mandorle tritate": "50g"
+    },
+    "nutrizione": {
+    "calorie": 250,
+    "proteine": 5,
+    "grassi": 10,
+    "carboidrati": 35,
+    "fibra": 3
+    }
+    },
+    {
+    "nome": "Smoothie alla pesca",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "pesche": "2",
+    "latte di cocco": "200ml",
+    "yogurt di soia": "100g",
+    "miele": "1 cucchiaio"
+    },
+    "nutrizione": {
+    "calorie": 180,
+    "proteine": 5,
+    "grassi": 4,
+    "carboidrati": 30,
+    "fibra": 2
+    }
+    },
+    {
+    "nome": "Muffin alla banana",
+    "glutine": true,
+    "latticini": true,
+    "ingredienti": {
+    "banane": "2",
+    "farina di riso": "150g",
+    "burro": "50g",
+    "zucchero": "100g",
+    "uova": "2",
+    "lievito per dolci": "1 bustina",
+    "cannella": "1 cucchiaino"
+    },
+    "nutrizione": {
+    "calorie": 290,
+    "proteine": 6,
+    "grassi": 12,
+    "carboidrati": 39,
+    "fibra": 3
+    }
+    },
+    {
+        "nome": "Yogurt alle fragole",
+        "glutine": false,
+        "latticini": true,
+        "ingredienti": {
+        "yogurt bianco": "150g",
+        "fragole": "50g",
+        "miele": "1 cucchiaino"
+        },
+        "nutrizione": {
+        "calorie": 120,
+        "proteine": 6,
+        "grassi": 0.5,
+        "carboidrati": 22,
+        "fibra": 2
+        }
+        },
+        
+        {
+        "nome": "Muffin al cioccolato fondente",
+        "glutine": true,
+        "latticini": true,
+        "ingredienti": {
+        "farina di frumento": "100g",
+        "zucchero": "50g",
+        "burro": "50g",
+        "uova": "1",
+        "cioccolato fondente": "50g"
+        },
+        "nutrizione": {
+        "calorie": 300,
+        "proteine": 4,
+        "grassi": 18,
+        "carboidrati": 31,
+        "fibra": 2
+        }
+        },
+        
+        {
+        "nome": "Smoothie alla banana",
+        "glutine": false,
+        "latticini": false,
+        "ingredienti": {
+        "banana": "1",
+        "latte di mandorla": "150ml",
+        "miele": "1 cucchiaino"
+        },
+        "nutrizione": {
+        "calorie": 180,
+        "proteine": 3,
+        "grassi": 3,
+        "carboidrati": 38,
+        "fibra": 5
+        }
+        },
+        
+        {
+        "nome": "Macedonia di frutta",
+        "glutine": false,
+        "latticini": false,
+        "ingredienti": {
+        "mela": "1",
+        "banana": "1",
+        "arancia": "1",
+        "kiwi": "1"
+        },
+        "nutrizione": {
+        "calorie": 180,
+        "proteine": 2,
+        "grassi": 1,
+        "carboidrati": 42,
+        "fibra": 8
+        }
+        },
+        {
+        "nome": "Biscotti al cocco",
+        "glutine": true,
+        "latticini": true,
+        "ingredienti": {
+        "farina di frumento": "100g",
+        "burro": "50g",
+        "zucchero": "50g",
+        "cocco grattugiato": "50g",
+        "uova": "1"
+        },
+        "nutrizione": {
+        "calorie": 250,
+        "proteine": 3,
+        "grassi": 16,
+        "carboidrati": 23,
+        "fibra": 1
+        }
+        },
+        
+            {
+            "nome": "Yogurt con frutta e granola",
+            "glutine": true,
+            "latticini": true,
+            "ingredienti": {
+            "yogurt bianco": "125g",
+            "frutta fresca mista": "100g",
+            "granola": "30g"
+            },
+            "nutrizione": {
+            "calorie": 220,
+            "proteine": 10,
+            "grassi": 5,
+            "carboidrati": 35,
+            "fibra": 5
+            }
+            },
+            {
+            "nome": "Pancake alla banana",
+            "glutine": true,
+            "latticini": true,
+            "ingredienti": {
+            "banane mature": "2",
+            "uova": "2",
+            "farina di frumento": "100g",
+            "lievito per dolci": "1 cucchiaino",
+            "latte": "50ml",
+            "olio di semi di girasole": "1 cucchiaio"
+            },
+            "nutrizione": {
+            "calorie": 270,
+            "proteine": 9,
+            "grassi": 7,
+            "carboidrati": 44,
+            "fibra": 4
+            }
+            },
+            {
+            "nome": "Smoothie alla banana e avocado",
+            "glutine": false,
+            "latticini": false,
+            "ingredienti": {
+            "banane mature": "2",
+            "avocado maturo": "1",
+            "latte di mandorla": "150ml",
+            "miele": "1 cucchiaio"
+            },
+            "nutrizione": {
+            "calorie": 330,
+            "proteine": 5,
+            "grassi": 17,
+            "carboidrati": 43,
+            "fibra": 12
+            }
+            },
+            {
+            "nome": "Muesli alla frutta",
+            "glutine": true,
+            "latticini": true,
+            "ingredienti": {
+            "muesli": "50g",
+            "yogurt bianco": "125g",
+            "frutta fresca mista": "100g"
+            },
+            "nutrizione": {
+            "calorie": 220,
+            "proteine": 8,
+            "grassi":2.5,
+            "carboidrati": 33,
+            "fibra": 3
+            }
+            },
+            {
+            "nome": "Smoothie al kiwi",
+            "glutine": false,
+            "latticini": false,
+            "ingredienti": {
+            "kiwi": "2",
+            "banana": "1",
+            "latte di mandorla": "225ml"
+            },
+            "nutrizione": {
+            "calorie": 215,
+            "proteine": 3.5,
+            "grassi": 4,
+            "carboidrati": 43,
+            "fibra": 7
+            }
+            },
+            {
+            "nome": "Budino alla vaniglia",
+            "glutine": false,
+            "latticini": true,
+            "ingredienti": {
+            "latte intero": "225ml",
+            "zucchero": "1 cucchiaio",
+            "amido di mais": "1 cucchiaio",
+            "vaniglia in polvere": "0.25 cucchiaino"
+            },
+            "nutrizione": {
+            "calorie": 180,
+            "proteine": 6,
+            "grassi": 6,
+            "carboidrati": 25,
+            "fibra": 0
+            }
+            },
+            {
+            "nome": "Frullato al cioccolato",
+            "glutine": false,
+            "latticini": false,
+            "ingredienti": {
+            "latte di soia": "225ml",
+            "banana": "1",
+            "cacao in polvere": "1 cucchiaio"
+            },
+            "nutrizione": {
+            "calorie": 200,
+            "proteine": 8,
+            "grassi": 5,
+            "carboidrati": 33,
+            "fibra": 8
+            }
+            },
+            {
+            "nome": "Macedonia di frutta",
+            "glutine": false,
+            "latticini": false,
+            "ingredienti": {
+            "fragole": "5",
+            "mango": "0.5",
+            "ananas": "0.5"
+            },
+            "nutrizione": {
+            "calorie": 120,
+            "proteine": 1,
+            "grassi": 0.5,
+            "carboidrati": 29,
+            "fibra": 4
+            }
+            },
+            {
+            "nome": "Frullato alla fragola",
+            "glutine": false,
+            "latticini": false,
+            "ingredienti": {
+            "fragole": "5",
+            "yogurt greco": "125g",
+            "latte di cocco": "110ml"
+            },
+            "nutrizione": {
+            "calorie": 180,
+            "proteine": 9,
+            "grassi": 6,
+            "carboidrati": 22,
+            "fibra": 4
+        }
+        }]}

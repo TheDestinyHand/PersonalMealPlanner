@@ -1,0 +1,415 @@
+{
+  "piatti": [
+    {
+      "nome": "Tonno alla griglia",
+      "glutine": false,
+      "latticini": false,
+      "ingredienti": {
+        "filetto di tonno": "1 pezzo (150g)",
+        "aglio": "1 spicchio",
+        "prezzemolo": "1 cucchiaio",
+        "olio d'oliva": "1 cucchiaio",
+        "sale": "qb",
+        "pepe nero": "qb"
+      },
+      "nutrizione": {
+        "calorie": 235,
+        "proteine": 32,
+        "grassi": 11,
+        "carboidrati": 0,
+        "fibra": 0
+      }
+    },
+    {
+      "nome": "Zuppa di pesce",
+      "glutine": true,
+      "latticini": false,
+      "ingredienti": {
+        "mix di pesce surgelato": "200g",
+        "pomodori pelati": "200g",
+        "cipolla": "1",
+        "aglio": "1 spicchio",
+        "prezzemolo": "1 cucchiaio",
+        "peperoncino": "1",
+        "olio d'oliva": "1 cucchiaio",
+        "sale": "qb"
+      },
+      "nutrizione": {
+        "calorie": 220,
+        "proteine": 30,
+        "grassi": 7,
+        "carboidrati": 10,
+        "fibra": 2
+      }
+    },
+    {
+      "nome": "Insalata di polpo e patate",
+      "glutine": true,
+      "latticini": false,
+      "ingredienti": {
+        "polpo surgelato": "150g",
+        "patate": "2",
+        "cipolla": "1",
+        "prezzemolo": "1 cucchiaio",
+        "aceto di vino bianco": "1 cucchiaio",
+        "olio d'oliva": "2 cucchiai",
+        "sale": "qb",
+        "pepe nero": "qb"
+      },
+      "nutrizione": {
+        "calorie": 290,
+        "proteine": 15,
+        "grassi": 10,
+        "carboidrati": 34,
+        "fibra": 4
+      }
+    },
+    {
+      "nome":"Insalata di seppie e arance",
+      "glutine": false,
+      "latticini": false,
+      "ingredienti": {
+      "seppie surgelate": "150g",
+      "arancia": "1",
+      "cipolla": "0.5",
+      "prezzemolo": "1 cucchiaio",
+      "aceto di vino bianco": "1 cucchiaio",
+      "olio d'oliva": "2 cucchiai",
+      "sale": "qb",
+      "pepe nero": "qb"
+      },
+      "nutrizione": {
+      "calorie": 150,
+      "proteine": 19,
+      "grassi": 7,
+      "carboidrati": 9,
+      "fibra": 2
+      }
+      },
+      {
+      "nome": "Risotto al salmone e zucchine",
+      "glutine": true,
+      "latticini": true,
+      "ingredienti": {
+      "riso": "80g",
+      "salmone affumicato": "50g",
+      "zucchine": "0.5",
+      "cipolla": "0.5",
+      "prezzemolo": "1 cucchiaio",
+      "burro": "10g",
+      "parmigiano grattugiato": "10g",
+      "sale": "qb",
+      "pepe nero": "qb"
+      },
+      "nutrizione": {
+      "calorie": 450,
+      "proteine": 22,
+      "grassi": 18,
+      "carboidrati": 50,
+      "fibra": 2
+      }
+      },
+      {
+      "nome": "Baccalà alla vicentina",
+      "glutine": true,
+      "latticini": true,
+      "ingredienti": {
+      "baccalà già ammollato": "200g",
+      "cipolla": "1",
+      "aglio": "1 spicchio",
+      "prezzemolo": "1 cucchiaio",
+      "latte": "250ml",
+      "farina": "1 cucchiaio",
+      "olio d'oliva": "2 cucchiai",
+      "sale": "qb",
+      "pepe nero": "qb"
+      },
+      "nutrizione": {
+      "calorie": 350,
+      "proteine": 28,
+      "grassi": 13,
+      "carboidrati": 27,
+      "fibra": 2
+      }
+      },
+      {
+      "nome": "Carpaccio di tonno",
+      "glutine": false,
+      "latticini": false,
+      "ingredienti": {
+      "filetto di tonno fresco": "150g",
+      "rucola": "30g",
+      "pomodorini": "5",
+      "limone": "1",
+      "olio d'oliva": "1 cucchiaio",
+      "sale": "qb",
+      "pepe nero": "qb"
+      },
+      "nutrizione": {
+      "calorie": 230,
+      "proteine": 30,
+      "grassi": 11,
+      "carboidrati": 3,
+      "fibra": 1
+      }
+      },
+      {
+      "nome":"Filetto di branzino al forno",
+      "glutine": false,
+      "latticini": false,
+      "ingredienti": {
+      "filetto di branzino": "150g",
+      "pomodorini": "5",
+      "olive taggiasche": "10",
+      "aglio": "1 spicchio",
+      "rosmarino": "1 rametto",
+      "sale": "qb",
+      "pepe nero": "qb",
+      "olio d'oliva": "1 cucchiaio"
+      },
+      "nutrizione": {
+      "calorie": 170,
+      "proteine": 25,
+      "grassi": 6,
+      "carboidrati": 2,
+      "fibra": 1
+      }
+      },
+      {
+      "nome": "Sashimi di salmone",
+      "glutine": false,
+      "latticini": false,
+      "ingredienti": {
+      "filetto di salmone fresco": "150g",
+      "wasabi": "1 cucchiaino",
+      "salsa di soia": "1 cucchiaio",
+      "limone": "1",
+      "sesamo": "1 cucchiaino"
+      },
+      "nutrizione": {
+      "calorie": 220,
+      "proteine": 27,
+      "grassi": 11,
+      "carboidrati": 2,
+      "fibra": 1
+      }
+      },
+      {
+      "nome": "Frittura di calamari",
+      "glutine": true,
+      "latticini": false,
+      "ingredienti": {
+      "calamari": "150g",
+      "farina": "50g",
+      "uovo": "1",
+      "sale": "qb",
+      "pepe nero": "qb",
+      "limone": "1",
+      "olio di semi di arachide": "qb"
+      },
+      "nutrizione": {
+      "calorie": 300,
+      "proteine": 20,
+      "grassi": 12,
+      "carboidrati": 25,
+      "fibra": 1
+      }
+      },
+      {
+      "nome": "Spaghetti allo scoglio",
+      "glutine": true,
+      "latticini": false,
+      "ingredienti": {
+      "spaghetti": "80g",
+      "cozze": "250g",
+      "vongole": "250g",
+      "gamberetti": "100g",
+      "pomodorini": "5",
+      "aglio": "1 spicchio",
+      "prezzemolo": "1 cucchiaio",
+      "olio d'oliva": "2 cucchiai",
+      "sale": "qb",
+      "peperoncino": "1"
+      },
+      "nutrizione": {
+      "calorie": 500,
+      "proteine": 30,
+      "grassi": 10,
+      "carboidrati": 70,
+      "fibra": 5
+      }
+      },
+      {
+      "nome": "Zuppa di pesce",
+      "glutine": true,
+      "latticini": false,
+      "ingredienti": {
+      "polpa di pomodoro": "200g",
+      "scampi": "2",
+      "vongole": "100g",
+      "cozze": "100g",
+      "pesce spada": "100g",
+      "gamberi": "100g",
+      "cipolla": "0.5",
+      "carota": "0.5",
+      "sedano": "1 gambo",
+      "aglio": "1 spicchio",
+      "prezzemolo": "1 cucchiaio",
+      "olio d'oliva": "2 cucchiai",
+      "sale": "qb",
+      "pepe nero": "qb",
+      "brodo di pesce": "200ml"
+      },
+      "nutrizione": {
+      "calorie": 300,
+      "proteine": 20,
+      "grassi": 10,
+      "carboidrati": 20,
+      "fibra": 4
+      }
+      },
+      {
+      "nome": "Bruschetta al salmone",
+      "glutine": true,
+      "latticini": true,
+      "ingredienti": {
+      "pane integrale": "2 fette",
+      "filetto di salmone affumicato": "50g",
+      "formaggio cremoso": "30g",
+      "rucola": "qb",
+      "sale": "qb",
+      "pepe nero": "qb",
+      "limone": "1"
+      },
+      "nutrizione": {
+      "calorie": 350,
+      "proteine": 20,
+      "grassi": 15,
+      "carboidrati": 30,
+      "fibra": 4
+      }
+      },
+      {
+      "nome": "Insalata di mare",
+      "glutine": true,
+      "latticini": false,
+      "ingredienti": {
+      "polpa di granchio": "100g",
+      "surimi": "50g",
+      "scampi": "2",
+      "cozze": "100g",
+      "vongole": "100g",
+      "insalata mista": "100g",
+      "pomodorini": "5",
+      "carota": "0.5",
+      "sedano": "1 gambo",
+      "cipolla rossa": "0.5",
+      "limone": "1",
+      "olio d'oliva": "2 cucchiai",
+      "sale": "qb",
+      "pepe nero": "qb"
+      },
+      "nutrizione": {
+      "calorie": 250,
+      "proteine": 20,
+      "grassi": 8,
+      "carboidrati": 25,
+      "fibra": 5
+      }
+      },
+      {
+      "nome": "Salmone alla griglia",
+      "glutine": false,
+      "latticini": false,
+      "ingredienti": {
+      "filetto di salmone fresco": "150g",
+      "rosmarino": "1 rametto",
+      "aglio": "1 spicchio",
+      "sale": "qb",
+      "pepe nero": "qb",
+      "limone": "1",
+      "olio d'oliva": "1 cucchiaio"
+      },
+      "nutrizione": {
+      "calorie": 250,
+      "proteine": 25,
+      "grassi": 14,
+      "carboidrati": 0,
+      "fibra": 0
+      }
+      },
+      {
+      "nome": "Insalata di tonno e fagioli",
+      "glutine": false,
+      "latticini": false,
+      "ingredienti": {
+      "tonno sott'olio": "80g",
+      "fagioli borlotti": "100g",
+      "pomodorini": "5",
+      "ravanelli": "3",
+      "cipolla rossa": "0.5",
+      "basilico": "qb",
+      "sale": "qb",
+      "pepe nero": "qb",
+      "aceto balsamico": "1 cucchiaio",
+      "olio d'oliva": "2 cucchiai"
+      },
+      "nutrizione": {
+      "calorie": 350,
+      "proteine": 25,
+      "grassi": 15,
+      "carboidrati": 25,
+      "fibra": 7
+      }
+      },
+      {
+      "nome": "Sarde in saor",
+      "glutine": false,
+      "latticini": false,
+      "ingredienti": {
+      "sarde": "2",
+      "cipolla bianca": "0.5",
+      "aceto di vino bianco": "250ml",
+      "zucchero": "1 cucchiaio",
+      "pinoli": "10",
+      "uvetta": "10g",
+      "sale": "qb",
+      "pepe nero": "qb",
+      "farina di mais": "2 cucchiai",
+      "olio di semi di mais": "1 cucchiaio"
+      },
+      "nutrizione": {
+      "calorie": 250,
+      "proteine": 20,
+      "grassi": 10,
+      "carboidrati": 20,
+      "fibra": 3
+      }
+      },
+      {
+      "nome": "Risotto ai frutti di mare",
+      "glutine": true,
+      "latticini": false,
+      "ingredienti": {
+      "riso arborio": "80g",
+      "cozze": "100g",
+      "vongole": "100g",
+      "gamberi": "100g",
+      "scampi": "2",
+      "cipolla": "0.5",
+      "aglio": "1 spicchio",
+      "prezzemolo": "1 cucchiaio",
+      "olio d'oliva": "2 cucchiai",
+      "sale": "qb",
+      "pepe nero": "qb",
+      "brodo di pesce": "200ml"
+      },
+      "nutrizione": {
+      "calorie": 350,
+      "proteine": 20,
+      "grassi": 10,
+      "carboidrati": 50,
+      "fibra": 3
+      }
+}]
+      }

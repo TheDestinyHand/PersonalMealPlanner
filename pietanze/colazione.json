@@ -1,0 +1,339 @@
+{
+   "piatti":[{
+    "nome": "Toast con avocado e uovo",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+    "pan carrè": "1 fetta",
+    "avocado": "0.5",
+    "uovo": "1",
+    "sale": "qb",
+    "pepe": "qb"
+    },
+    "nutrizione": {
+    "calorie": 260,
+    "proteine": 12,
+    "grassi": 18,
+    "carboidrati": 18,
+    "fibra": 6
+    }
+    },
+    
+    {
+    "nome": "Porridge di avena e frutta secca",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+    "avena": "50g",
+    "acqua": "200ml",
+    "misto di frutta secca (mandorle, noci, nocciole, uvetta)": "25g",
+    "miele": "1 cucchiaino"
+    },
+    "nutrizione": {
+    "calorie": 350,
+    "proteine": 10,
+    "grassi": 15,
+    "carboidrati": 45,
+    "fibra": 8
+    }
+    },
+    
+    {
+    "nome": "Smoothie alla fragola e banana",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "fragole": "150g",
+    "banana": "1",
+    "acqua": "100ml",
+    "semi di chia": "1 cucchiaino"
+    },
+    "nutrizione": {
+    "calorie": 200,
+    "proteine": 5,
+    "grassi": 6,
+    "carboidrati": 35,
+    "fibra": 10
+    }
+    },
+    
+    {
+    "nome": "Frittata di verdure",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "uova": "2",
+    "zucchine": "1",
+    "pomodorini": "5",
+    "cipolla": "0.5",
+    "olio d'oliva": "1 cucchiaio",
+    "sale": "qb",
+    "pepe": "qb"
+    },
+    "nutrizione": {
+    "calorie": 250,
+    "proteine": 14,
+    "grassi": 16,
+    "carboidrati": 10,
+    "fibra": 3
+    }
+    },
+    
+    {
+    "nome": "Muffin ai mirtilli e banane",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+    "farina di avena": "100g",
+    "lievito per dolci": "1 cucchiaino",
+    "banane mature": "2",
+    "mirtilli": "50g",
+    "uova": "2",
+    "olio di cocco": "1 cucchiaio",
+    "miele": "1 cucchiaio"
+    },
+    "nutrizione": {
+    "calorie": 320,
+    "proteine": 18,
+    "grassi": 12,
+    "carboidrati": 36,
+    "fibra": 5
+    }
+    },
+    {
+    "nome": "Yogurt con frutta e cereali",
+    "glutine": false,
+    "latticini": true,
+    "ingredienti": {
+    "yogurt bianco": "150g",
+    "kiwi": "1",
+    "fragole": "50g",
+    "muesli": "30g"
+    },
+    "nutrizione": {
+    "calorie": 280,
+    "proteine": 12,
+    "grassi": 5,
+    "carboidrati": 50,
+    "fibra": 8
+    }
+    },
+    {
+    "nome": "Toast con uova e prosciutto",
+    "glutine": true,
+    "latticini": false,
+    "ingredienti": {
+    "pane integrale": "2 fette",
+    "uova": "2",
+    "prosciutto crudo": "2 fette"
+    },
+    "nutrizione": {
+    "calorie": 400,
+    "proteine": 25,
+    "grassi": 18,
+    "carboidrati": 30,
+    "fibra": 6
+    }
+    },
+    {
+    "nome": "Smoothie alla frutta",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "banana": "1",
+    "fragole": "100g",
+    "latte di mandorle": "200ml",
+    "miele": "1 cucchiaino"
+    },
+    "nutrizione": {
+    "calorie": 250,
+    "proteine": 5,
+    "grassi": 5,
+    "carboidrati": 45,
+    "fibra": 6
+    }
+    },
+    {
+    "nome": "Omelette con spinaci e formaggio",
+    "glutine": false,
+    "latticini": true,
+    "ingredienti": {
+    "uova": "2",
+    "spinaci": "50g",
+    "formaggio grattugiato": "30g",
+    "olio d'oliva": "1 cucchiaino"
+    },
+    "nutrizione": {
+    "calorie": 320,
+    "proteine": 20,
+    "grassi": 22,
+    "carboidrati": 8,
+    "fibra": 3
+    }
+    },
+    {
+    "nome": "Porridge di avena con mela e cannella",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "fiocchi di avena": "50g",
+    "latte di soia": "200ml",
+    "mela": "1",
+    "cannella": "qb",
+    "miele": "1 cucchiaino"
+    },
+    "nutrizione": {
+    "calorie": 300,
+    "proteine": 10,
+    "grassi": 6,
+    "carboidrati": 50,
+    "fibra": 10
+    }
+    },
+    {
+    "nome": "Muffin alle mele",
+    "glutine": true,
+    "latticini": true,
+    "ingredienti": {
+    "farina di frumento": "150g",
+    "burro": "50g",
+    "zucchero": "100g"
+    },
+    "nutrizione": {
+    "calorie": 290,
+    "proteine": 4,
+    "grassi": 13,
+    "carboidrati": 38,
+    "fibra": 1
+    }
+    },
+    {
+    "nome": "Pancakes alla banana",
+    "glutine": true,
+    "latticini": true,
+    "ingredienti": {
+    "farina di frumento": "100g",
+    "lievito in polvere": "1 cucchiaino",
+    "zucchero": "1 cucchiaio",
+    "sale": "1 pizzico",
+    "uovo": "1",
+    "latte": "80ml",
+    "banane mature": "1",
+    "burro": "10g"
+    },
+    "nutrizione": {
+    "calorie": 319,
+    "proteine": 9,
+    "grassi": 11,
+    "carboidrati": 46,
+    "fibra": 3
+    }
+    },
+    {
+    "nome": "Porridge di avena",
+    "glutine": true,
+    "latticini": true,
+    "ingredienti": {
+    "fiocchi d'avena": "40g",
+    "latte": "100ml",
+    "miele": "1 cucchiaino",
+    "cannella": "qb",
+    "mela": "0.5"
+    },
+    "nutrizione": {
+    "calorie": 251,
+    "proteine": 7,
+    "grassi": 6,
+    "carboidrati": 42,
+    "fibra": 5
+    }
+    },
+    {
+    "nome": "Frullato alla banana",
+    "glutine": false,
+    "latticini": true,
+    "ingredienti": {
+    "banane mature": "1",
+    "yogurt alla vaniglia": "100g",
+    "latte": "100ml",
+    "miele": "1 cucchiaino"
+    },
+    "nutrizione": {
+    "calorie": 273,
+    "proteine": 9,"grassi": 11,
+    "carboidrati": 36,
+    "fibra": 2
+    }
+    },
+    {
+    "nome": "Yogurt con muesli e frutta",
+    "glutine": false,
+    "latticini": true,
+    "ingredienti": {
+    "yogurt greco": "150g",
+    "muesli": "30g",
+    "frutta di stagione": "100g"
+    },
+    "nutrizione": {
+    "calorie": 180,
+    "proteine": 10,
+    "grassi": 3,
+    "carboidrati": 29,
+    "fibra": 3
+    }
+    },
+    {
+    "nome": "Porridge alla banana",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "fiocchi di avena": "40g",
+    "latte di soia": "150ml",
+    "banana": "1",
+    "cannella": "qb"
+    },
+    "nutrizione": {
+    "calorie": 225,
+    "proteine": 9,
+    "grassi": 4,
+    "carboidrati": 37,
+    "fibra": 6
+    }
+    },
+    {
+    "nome": "Uovo in camicia con spinaci",
+    "glutine": false,
+    "latticini": false,
+    "ingredienti": {
+    "uovo": "1",
+    "spinaci": "50g",
+    "aglio": "1 spicchio",
+    "olio d'oliva": "1 cucchiaio"
+    },
+    "nutrizione": {
+    "calorie": 150,
+    "proteine": 10,
+    "grassi": 11,
+    "carboidrati": 4,
+    "fibra": 2
+    }
+    },
+    {
+    "nome": "Pancakes alle mele",
+    "glutine": true,
+    "latticini": true,
+    "ingredienti": {
+    "farina di frumento": "100g",
+    "latte": "150ml",
+    "uovo": "1",
+    "mele": "1",
+    "zucchero di canna": "qb"
+    },
+    "nutrizione": {
+    "calorie": 350,
+    "proteine": 9,
+    "grassi": 9,
+    "carboidrati": 59,
+    "fibra": 3
+    }
+    }]}
